@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>HTML 5 Boilerplate</title>
+    </head>
+    <body>
+        <h1>Lasagna Recipe</h1>
+        <img src="https://www.allrecipes.com/thmb/eBUSgOli6tBHvzUoevbed9a6py4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/19344_homemade-lasagna_Rita2-3x2-1-7da94c32febf48dfbcc2d29b06f54e67.jpg">
+        <p> Making homemade lasagna much easier than it looks. You'll find the full, step-by-step recipe below — but here's a brief overview of what you can expect:
+            1. Cook the meat: Cook the ground meat in a skillet until browned and crumbly. Add the onion and continue cooking until it's translucent. Stir in the canned tomato products, half of the parsley, garlic, basil, 1.5 teaspoons of salt, oregano, and sugar.
+            2. Cook the noodles: Boil the lasagna noodles in lightly salted water until they're al dente.
+            3. Make the cheese layer: Mix cottage cheese, Parmesan cheese, eggs, the remaining parsley, the remaining salt, and pepper in a bowl.
+            4. Assemble the lasagna: Layer the ingredients according to the recipe (starting with sauce and ending with mozzarella) until the lasagna is assembled.
+            5. Bake the lasagna: Cover with foil and bake in the preheated oven for about half an hour. Remove the foil and continue baking until the top is golden brown.  </p>   
+        <ul>
+            <li>Meat</li>
+            <li>Onions</li>
+            <li>Canned Potatoes</li>
+            <li>Fresh Herbs</li>
+            <li>Sugar</li>
+            <li></li>
+                        
+        </ul>
+    </body>
+</html>

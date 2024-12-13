@@ -1,1 +1,2 @@
-# odin-recipes
+learned some basic webdev stuff.
+
